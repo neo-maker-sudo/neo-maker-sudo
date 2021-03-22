@@ -1,7 +1,4 @@
-![Animated GIF-downsized_large](https://user-images.githubusercontent.com/71454430/111950581-73ea9d00-8b1d-11eb-8af7-4dd2fdff0ad6.gif)
-
-
-<!--### Hi there 👋
+### Hi there 👋
 <!--
 **neo-maker-sudo/neo-maker-sudo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
